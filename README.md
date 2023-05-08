@@ -1,5 +1,5 @@
 # YMGK Kart Projeleri Sürüm Kontrol Deposu
-Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu
+Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-Final)
 1) 40'ıncı Sıradaki Kart Projesi (VİZE)
           -Sürüm Kontrol Deposu:
 
