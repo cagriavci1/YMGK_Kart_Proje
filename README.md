@@ -14,7 +14,7 @@ Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-F
 
 -Beta Sürüm: https://play.google.com/store/games
 
--Sunum ve Slaytlar: 
+-Sunum ve Slaytlar: https://tome.app/cagriavcisunumvr1/puzzle-playtime-a-2d-kids-game-developed-with-unity-clhex8drw4o3e9w3zm03w4azu
 
 -Kullanıcı Kılavuzu Dökümanı:[Kullanıcı Kılavuzu Dökümanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421823/Kullanici.Kilavuzu.Dokumani.docx)
 
