@@ -2,29 +2,32 @@
 Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-Final)
 1) 40'ıncı Sıradaki Kart Projesi (VİZE)
 
--Sürüm Kontrol Deposu:
+-Sürüm Kontrol Deposu: https://github.com/cagriavci1/YMGK_Kart_Proje
 
--Projeye Genel Bakıs Dökümanı:
+-Projeye Genel Bakıs Dökümanı:[Projeye Genel Bakıs Dokumanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421826/Projeye.Genel.Bakis.Dokumani.docx)
 
--Zaman Çizelgesi Belgesi:
+-Zaman Çizelgesi Belgesi:[Zaman Çizelgesi Belgesi.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421825/Zaman.Cizelgesi.Belgesi.docx)
 
--Prototip(APK):
+-Prototip(APK): https://play.google.com/store/games
 
--Alfa Sürüm:
+-Alfa Sürüm: https://play.google.com/store/games
 
--Beta Sürüm:
+-Beta Sürüm: https://play.google.com/store/games
 
--Sunum ve Slaytlar:
+-Sunum ve Slaytlar: 
 
--Kullanıcı Kılavuzu Dökümanı:
+-Kullanıcı Kılavuzu Dökümanı:[Kullanıcı Kılavuzu Dökümanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421823/Kullanici.Kilavuzu.Dokumani.docx)
 
--Ürüm Değerlendirme Belgesi:
 
--Proje Değerlendirme Dökümanı:
+-Ürüm Değerlendirme Belgesi:[Ürün Değerlendirme Belgesi.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421821/Urun.Degerlendirme.Belgesi.docx)
 
--Kaynak Kodu:
 
--Nihai Ürün:
+-Proje Değerlendirme Dökümanı: [Proje Değerlendirme Dökümanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421844/Proje.Degerlendirme.Dokumani.docx)
+
+
+-Kaynak Kodu: https://github.com/cagriavci1/YMGK_Kart_Proje
+
+-Nihai Ürün: https://play.google.com/store/games
 
 ![1 1](https://user-images.githubusercontent.com/93042786/236837494-5389765b-41b5-4b3a-9269-65757dcdad8c.jpg)
 ![1 2](https://user-images.githubusercontent.com/93042786/236837504-73a48b34-dfc8-4471-9e60-c6cbd714c4c1.jpg)
