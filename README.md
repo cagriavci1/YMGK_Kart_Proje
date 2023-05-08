@@ -1,30 +1,31 @@
 # YMGK Kart Projeleri Sürüm Kontrol Deposu
 Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-Final)
 1) 40'ıncı Sıradaki Kart Projesi (VİZE)
-          -Sürüm Kontrol Deposu:
 
-          -Projeye Genel Bakıs Dökümanı:
+-Sürüm Kontrol Deposu:
 
-          -Zaman Çizelgesi Belgesi:
+-Projeye Genel Bakıs Dökümanı:
 
-          -Prototip(APK):
+-Zaman Çizelgesi Belgesi:
 
-          -Alfa Sürüm:
+-Prototip(APK):
 
-          -Beta Sürüm:
+-Alfa Sürüm:
 
-          -Sunum ve Slaytlar:
+-Beta Sürüm:
 
-          -Kullanıcı Kılavuzu Dökümanı:
+-Sunum ve Slaytlar:
 
-          -Ürüm Değerlendirme Belgesi:
+-Kullanıcı Kılavuzu Dökümanı:
 
-          -Proje Değerlendirme Dökümanı:
+-Ürüm Değerlendirme Belgesi:
 
-          -Kaynak Kodu:
+-Proje Değerlendirme Dökümanı:
 
-          -Nihai Ürün:
-          
-          ![1 1](https://user-images.githubusercontent.com/93042786/236837494-5389765b-41b5-4b3a-9269-65757dcdad8c.jpg)
-          ![1 2](https://user-images.githubusercontent.com/93042786/236837504-73a48b34-dfc8-4471-9e60-c6cbd714c4c1.jpg)
+-Kaynak Kodu:
+
+-Nihai Ürün:
+
+![1 1](https://user-images.githubusercontent.com/93042786/236837494-5389765b-41b5-4b3a-9269-65757dcdad8c.jpg)
+![1 2](https://user-images.githubusercontent.com/93042786/236837504-73a48b34-dfc8-4471-9e60-c6cbd714c4c1.jpg)
 
