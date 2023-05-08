@@ -4,9 +4,9 @@ Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-F
 
 -Sürüm Kontrol Deposu: https://github.com/cagriavci1/YMGK_Kart_Proje
 
--Projeye Genel Bakıs Dökümanı:[Projeye Genel Bakıs Dokumanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421826/Projeye.Genel.Bakis.Dokumani.docx)
+-Projeye Genel Bakıs Dökümanı: [Projeye Genel Bakıs Dokumanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421826/Projeye.Genel.Bakis.Dokumani.docx)
 
--Zaman Çizelgesi Belgesi:[Zaman Çizelgesi Belgesi.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421825/Zaman.Cizelgesi.Belgesi.docx)
+-Zaman Çizelgesi Belgesi: [Zaman Çizelgesi Belgesi.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421825/Zaman.Cizelgesi.Belgesi.docx)
 
 -Prototip(APK): https://play.google.com/store/games
 
@@ -16,10 +16,10 @@ Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-F
 
 -Sunum ve Slaytlar: https://tome.app/cagriavcisunumvr1/puzzle-playtime-a-2d-kids-game-developed-with-unity-clhex8drw4o3e9w3zm03w4azu
 
--Kullanıcı Kılavuzu Dökümanı:[Kullanıcı Kılavuzu Dökümanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421823/Kullanici.Kilavuzu.Dokumani.docx)
+-Kullanıcı Kılavuzu Dökümanı: [Kullanıcı Kılavuzu Dökümanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421823/Kullanici.Kilavuzu.Dokumani.docx)
 
 
--Ürüm Değerlendirme Belgesi:[Ürün Değerlendirme Belgesi.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421821/Urun.Degerlendirme.Belgesi.docx)
+-Ürüm Değerlendirme Belgesi: [Ürün Değerlendirme Belgesi.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421821/Urun.Degerlendirme.Belgesi.docx)
 
 
 -Proje Değerlendirme Dökümanı: [Proje Değerlendirme Dökümanı.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421844/Proje.Degerlendirme.Dokumani.docx)
