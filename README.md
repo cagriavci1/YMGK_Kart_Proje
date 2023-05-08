@@ -24,4 +24,6 @@ Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu
           -Kaynak Kodu:
 
           -Nihai Ürün:
-  
+  ![1 1](https://user-images.githubusercontent.com/93042786/236837494-5389765b-41b5-4b3a-9269-65757dcdad8c.jpg)
+![1 2](https://user-images.githubusercontent.com/93042786/236837504-73a48b34-dfc8-4471-9e60-c6cbd714c4c1.jpg)
+
