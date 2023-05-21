@@ -8,11 +8,11 @@ Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-F
 
 -Zaman Çizelgesi Belgesi: [Zaman Çizelgesi Belgesi.docx](https://github.com/cagriavci1/YMGK_Kart_Proje/files/11421825/Zaman.Cizelgesi.Belgesi.docx)
 
--Prototip(APK): https://play.google.com/store/games
+-Prototip(APK): https://drive.google.com/file/d/1YYcAuVsXzyQzG6wdzXmd6x9JRFFR55i-/view?usp=sharing
 
--Alfa Sürüm: https://play.google.com/store/games
+-Alfa Sürüm: https://drive.google.com/file/d/1YYcAuVsXzyQzG6wdzXmd6x9JRFFR55i-/view?usp=sharing
 
--Beta Sürüm: https://play.google.com/store/games
+-Beta Sürüm: [https://play.google.com/store/games](https://drive.google.com/file/d/1YYcAuVsXzyQzG6wdzXmd6x9JRFFR55i-/view?usp=sharing)
 
 -Sunum ve Slaytlar: https://tome.app/cagriavcisunumvr1/puzzle-playtime-a-2d-kids-game-developed-with-unity-clhex8drw4o3e9w3zm03w4azu
 
@@ -27,7 +27,7 @@ Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-F
 
 -Kaynak Kodu: https://github.com/cagriavci1/YMGK_Kart_Proje
 
--Nihai Ürün: https://play.google.com/store/games
+-Nihai Ürün: [https://play.google.com/store/games](https://drive.google.com/file/d/1YYcAuVsXzyQzG6wdzXmd6x9JRFFR55i-/view?usp=sharing)
 
 ![1 1](https://user-images.githubusercontent.com/93042786/236837494-5389765b-41b5-4b3a-9269-65757dcdad8c.jpg)
 ![1 2](https://user-images.githubusercontent.com/93042786/236837504-73a48b34-dfc8-4471-9e60-c6cbd714c4c1.jpg)
