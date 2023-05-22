@@ -27,7 +27,7 @@ Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-F
 
 -Kaynak Kodu: https://github.com/cagriavci1/YMGK_Kart_Proje
 
--Nihai Ürün: [https://play.google.com/store/games](https://drive.google.com/file/d/1YYcAuVsXzyQzG6wdzXmd6x9JRFFR55i-/view?usp=sharing)
+-Nihai Ürün: https://drive.google.com/file/d/1YYcAuVsXzyQzG6wdzXmd6x9JRFFR55i-/view?usp=sharing
 
 ![1 1](https://user-images.githubusercontent.com/93042786/236837494-5389765b-41b5-4b3a-9269-65757dcdad8c.jpg)
 ![1 2](https://user-images.githubusercontent.com/93042786/236837504-73a48b34-dfc8-4471-9e60-c6cbd714c4c1.jpg)
