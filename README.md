@@ -1,6 +1,6 @@
 # YMGK Kart Projeleri Sürüm Kontrol Deposu
 Yazılım Mühendisliği Güncel Konular Dersi Proje Ödev Kaynak Deposu (Vize-Final)
-1) 40'ıncı Sıradaki Kart Projesi (VİZE)
+1) 40'ıncı Sıradaki Kart Projesi (VİZE) (Bitti)
 
 -Sürüm Kontrol Deposu: https://github.com/cagriavci1/YMGK_Kart_Proje
 
