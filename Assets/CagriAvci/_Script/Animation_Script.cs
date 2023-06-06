@@ -31,12 +31,12 @@ public class Animation_Script : MonoBehaviour
         gameCardObject.SetActive(false);
         GameButtons.SetActive(false);
         start_text.text = "GAME STARTS";
-        Invoke("TextChange1",.3f);
-
+            Invoke("TextChange1", .3f);
+       
     }
     private void Update()
     {
-        if (timer ==10)
+        if (timer == 3)
         {
             CancelInvoke();
             GameStart();

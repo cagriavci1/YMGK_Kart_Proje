@@ -94,26 +94,26 @@ public class Question_Manager : MonoBehaviour
         {
             case 0:
                 A_button.text = cevaplar[questionNo].ToString();
-                B_button.text = Random.RandomRange(6, 30).ToString();
-                C_button.text = Random.RandomRange(10, 30).ToString();
-                D_button.text = Random.RandomRange(19, 30).ToString();
+                B_button.text = RandomGenerator(6, 30);
+                C_button.text = RandomGenerator(10, 30);
+                D_button.text = RandomGenerator(19, 30);
                 break;
             case 1:
-                A_button.text = Random.RandomRange(18, 30).ToString();
+                A_button.text = RandomGenerator(18,30);
                 B_button.text = cevaplar[questionNo].ToString();
-                C_button.text = Random.RandomRange(10, 30).ToString();
-                D_button.text = Random.RandomRange(15, 30).ToString();
+                C_button.text = RandomGenerator(10, 30);
+                D_button.text = RandomGenerator(15, 30);
                 break;
             case 2:
-                A_button.text = Random.RandomRange(18, 30).ToString();
-                B_button.text = Random.RandomRange(13, 30).ToString();
+                A_button.text = RandomGenerator(18, 30);
+                B_button.text = RandomGenerator(13, 30);
                 C_button.text = cevaplar[questionNo].ToString();
-                D_button.text = Random.RandomRange(19, 30).ToString();
+                D_button.text = RandomGenerator(19, 30);
                 break;
             case 3:
-                A_button.text = Random.RandomRange(18, 30).ToString();
-                B_button.text = Random.RandomRange(19, 30).ToString();
-                C_button.text = Random.RandomRange(17, 30).ToString();
+                A_button.text = RandomGenerator(18, 30);
+                B_button.text = RandomGenerator(19, 30);
+                C_button.text = RandomGenerator(17, 30);
                 D_button.text = cevaplar[questionNo].ToString();
                 break;
             default:
@@ -123,6 +123,14 @@ public class Question_Manager : MonoBehaviour
         indexCount = dogruIndex;
 
     }
+    string RandomGenerator(int min, int max)
+    {
+        int sayi= Random.RandomRange(min, max);
+        string returnedString = sayi.ToString();
+
+        return returnedString;
+    }
+    
     void Next_Button()
     {
         // soru cevap ekraný acýlacak
